@@ -39,7 +39,7 @@ Here are some resources to help you out as you go through the gauntlet.
 | DEFCON 2016           | [xkcd](https://github.com/robgalvan/gauntlet/tree/master/gotta_start_somewhere/xkcd)                         | UNSOLVED      |
 | TOKYO WESTERNS 2016   | [greeting](https://github.com/robgalvan/gauntlet/tree/master/gotta_start_somewhere/greeting)                 | UNSOLVED      |
 | DEFCON 2015           | [babyecho](https://github.com/robgalvan/gauntlet/tree/master/gotta_start_somewhere/babyecho)                 | UNSOLVED      |
-| DEFCON 2015           | [r0pbaby](https://github.com/robgalvan/gauntlet/tree/master/gotta_start_somewhere/r0pbaby)                   | UNSOLVED      |
+| DEFCON 2015           | [r0pbaby](https://github.com/robgalvan/gauntlet/tree/master/gotta_start_somewhere/r0pbaby)                   | __SOLVED__    |
 | CSAW 2014             | [greenhornd](https://github.com/robgalvan/gauntlet/tree/master/gotta_start_somewhere/greenhornd)             | UNSOLVED      |
 | CSAW 2013             | [csawdiary](https://github.com/robgalvan/gauntlet/tree/master/gotta_start_somewhere/csawdiary)               | UNSOLVED      |
 | CSAW 2013             | [exploit2](https://github.com/robgalvan/gauntlet/tree/master/gotta_start_somewhere/exploit2)                 | UNSOLVED      |
