@@ -39,12 +39,12 @@ Here are some resources to help you out as you go through the gauntlet.
 | DEFCON 2016           | [xkcd](https://github.com/robgalvan/gauntlet/tree/master/gotta_start_somewhere/xkcd)                         | UNSOLVED      |
 | TOKYO WESTERNS 2016   | [greeting](https://github.com/robgalvan/gauntlet/tree/master/gotta_start_somewhere/greeting)                 | UNSOLVED      |
 | DEFCON 2015           | [babyecho](https://github.com/robgalvan/gauntlet/tree/master/gotta_start_somewhere/babyecho)                 | UNSOLVED      |
-| DEFCON 2015           | [r0pbaby](https://github.com/robgalvan/gauntlet/tree/master/gotta_start_somewhere/r0pbaby)                   | __SOLVED__    |
+| DEFCON 2015           | [r0pbaby](https://github.com/robgalvan/gauntlet/tree/master/gotta_start_somewhere/r0pbaby)                   | UNSOLVED      |
 | CSAW 2014             | [greenhornd](https://github.com/robgalvan/gauntlet/tree/master/gotta_start_somewhere/greenhornd)             | UNSOLVED      |
 | CSAW 2013             | [csawdiary](https://github.com/robgalvan/gauntlet/tree/master/gotta_start_somewhere/csawdiary)               | UNSOLVED      |
 | CSAW 2013             | [exploit2](https://github.com/robgalvan/gauntlet/tree/master/gotta_start_somewhere/exploit2)                 | UNSOLVED      |
 | CSAW 2013             | [miteegashun](https://github.com/robgalvan/gauntlet/tree/master/gotta_start_somewhere/miteegashun)           | UNSOLVED      |
-| PlaidCTF 2013         | [ropasaurusrex](https://github.com/robgalvan/gauntlet/tree/master/gotta_start_somewhere/ropasaurusrex)       | __SOLVED__    | 
+| PlaidCTF 2013         | [ropasaurusrex](https://github.com/robgalvan/gauntlet/tree/master/gotta_start_somewhere/ropasaurusrex)       | UNSOLVED      | 
 
 ### Difficulty: Easy
 
